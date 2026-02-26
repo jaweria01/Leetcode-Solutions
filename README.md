@@ -28,8 +28,13 @@ I update this repository regularly as I explore new topics, revisit problems, an
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
