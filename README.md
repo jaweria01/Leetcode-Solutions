@@ -24,4 +24,12 @@ I update this repository regularly as I explore new topics, revisit problems, an
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0067-add-binary) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
