@@ -29,14 +29,20 @@ I update this repository regularly as I explore new topics, revisit problems, an
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
