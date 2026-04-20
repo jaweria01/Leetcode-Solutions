@@ -37,6 +37,7 @@ I update this repository regularly as I explore new topics, revisit problems, an
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0141-linked-list-cycle](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sliding Window
 |  |
@@ -47,4 +48,12 @@ I update this repository regularly as I explore new topics, revisit problems, an
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0704-binary-search) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
