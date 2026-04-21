@@ -39,6 +39,7 @@ I update this repository regularly as I explore new topics, revisit problems, an
 | [0027-remove-element](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0876-middle-of-the-linked-list](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -56,4 +57,5 @@ I update this repository regularly as I explore new topics, revisit problems, an
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/jaweria01/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
